@@ -54,7 +54,7 @@
 **Deployed URL :**
 
 ```bash
-https://fe-ticketing-jira-like.vercel.app/
+https://vehicle-dashboard-r3b4.vercel.app/
 ```
 
 **Local URL :**
@@ -135,7 +135,8 @@ src/
  │    ├── Dashboard/
  │         │── index.tsx
  │         │── components/
- │              └── ComparisonChartByModels.tsx │              └── DynamicCountryDoughnutChart.tsx
+ │              └── ComparisonChartByModels.tsx
+ │              └── DynamicCountryDoughnutChart.tsx
  │    ├── Login/
  │    ├── ...
  ├── utils/
